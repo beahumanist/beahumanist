@@ -60,10 +60,17 @@
     <a href="https://github.com/">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />&nbsp;&nbsp;
 	</a>
-
-
+</p>
 <br />
 <br />
-
-
+<h2 align="center">💻My Projects🧑🏻‍💻<h3/>
+<p align="center">
+- React Native Application for Movies
+- React Native Chat Application
+- Beyond Chats Web Chat Application
+- A VueJs Based Website for Movies and Tv Shows.
+- NodeMCU based room Cleaner Bot.
+- Python Chatbot with SpeechRecognition and TextToSpeech.
+- Python Body and Hand Tracker (libraries used) for upcoming combined project.
+- Exam CheatBot (which can get text from clipboard and copy the answer)</p>
 <br>
