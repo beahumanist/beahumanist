@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love to play Badminton.
 
 <p align="center">
- <img align="centre" alt="GIF" src="https://image.freepik.com/free-vector/software-developer-character-programmer-develops-code-illustration_80590-7310.jpg?w=996" width="500" height="320" />
+ <img align="centre" alt="GIF" src="https://image.freepik.com/free-vector/software-developer-character-programmer-develops-code-illustration_80590-7310.jpg?w=996" width="996" />
 </p>
 <br>
 
