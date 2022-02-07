@@ -8,6 +8,7 @@
 - 🥅 2022 Goals: Learn Android Developemant and Machine Learning.
 - ⚡ Fun fact: I love to play Badminton.
 
+<br/>
 <p align="center">
  <img align="centre" alt="GIF" src="https://image.freepik.com/free-vector/software-developer-character-programmer-develops-code-illustration_80590-7310.jpg?w=996" width="996" />
 </p>
