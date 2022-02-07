@@ -62,10 +62,10 @@
 	</a>
 </p>
 <br />
-<br />
+	
 # <h2 align="center">💻My Projects🧑🏻‍💻<h3/>
 
-	- React Native Application for Movies
+- React Native Application for Movies
 - React Native Chat Application
 - Beyond Chats Web Chat Application
 - A VueJs Based Website for Movies and Tv Shows.
