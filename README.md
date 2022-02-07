@@ -64,7 +64,7 @@
 <br />
 <br />
 <h2 align="center">💻My Projects🧑🏻‍💻<h3/>
-<p align="center">
+<p align="center" style="display: flex; flex-direction: column;">
 - React Native Application for Movies
 - React Native Chat Application
 - Beyond Chats Web Chat Application
